@@ -37,6 +37,12 @@ Este é um aplicativo Flutter simples que conta a quantidade de clientes em um r
     flutter run
     ```
 
+## Download do APK
+
+Você pode baixar o APK do aplicativo através do link abaixo:
+
+[Baixar APK](https://drive.google.com/file/d/1fQ9LXkIYiNZpdOGe8YMhu00dJnnPiU7x/view?usp=drive_link)
+
 ## Estrutura do Projeto
 
 ```plaintext
