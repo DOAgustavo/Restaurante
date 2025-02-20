@@ -1,0 +1,43 @@
+name: rest
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.14.3"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/contadorRest.png"
+  min_sdk_android: 21
+  web:
+    generate: true
+    image_path: "assets/contadorRest.png"
+    background_color: "#FFFFFF"
+    theme_color: "#000000"
+  windows:
+    generate: true
+    image_path: "assets/contadorRest.png"
+    icon_size: 48
+  macos:
+    generate: true
+    image_path: "assets/contadorRest.png"
+
+flutter:
+  assets:
+    - assets/imagens/imagem.webp
+
+  uses-material-design: true
