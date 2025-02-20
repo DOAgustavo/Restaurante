@@ -1,5 +1,5 @@
-<img src="assets/PagApp.jpeg" alt="Imagem da Tela Inicial" width="300"/>
-<img src="assets/iconApp.png" alt="Icone do App" width="300"/>
+<img src="assets/imagens/PagApp.jpeg" alt="Imagem da Tela Inicial" width="300"/>
+<img src="assets/imagens/iconApp.png" alt="Icone do App" width="300"/>
 
 # Contador de Clientes
 
